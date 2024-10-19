@@ -9,7 +9,7 @@ This project sets up a security information and event management (SIEM) system. 
 ## 1. Intergration between Elastic Agent and Kali Linux
 
 
-![Branching](a1.png)
+![Branching](A1.png)
 
 ```bash
 curl -L -O https://artifacts.elastic.co/downloads/beats/elastic-agent/elastic-agent-8.15.3-darwin-aarch64.tar.gz
