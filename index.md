@@ -6,18 +6,16 @@ layout: default
 
 This project sets up a security information and event management (SIEM) system. You'll use the Elastic Stack to collect and analyze network logs from Kali Linux. This setup helps you find security threats and visualize network activity in Kibana.
 
-## 1. Intergration between Elastic Agent and Kali Linux
 
+
+
+## Record Logs with SIEM Tools
 
 ![Branching](A1.png)
+## Create and configure rule and alerts
 
-```bash
-curl -L -O https://artifacts.elastic.co/downloads/beats/elastic-agent/elastic-agent-8.15.3-darwin-aarch64.tar.gz
-tar xzvf elastic-agent-8.15.3-darwin-aarch64.tar.gz
-cd elastic-agent-8.15.3-darwin-aarch64
-sudo ./elastic-agent install --url=https://97f5ff18e975451e8b11211aa5c22673.fleet.us-central1.gcp.cloud.es.io:443 --enrollment-token=azlnSm81SUJNR0V5bU9sc2ZIdkQ6NXZlb3Q0NVlRT1NKRmYxSHhFcUhuUQ==
+![Branching](A2.png)
 
-```
 
 ```ruby
 # Ruby code with syntax highlighting
