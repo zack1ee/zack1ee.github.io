@@ -20,13 +20,8 @@ This project sets up a security information and event management (SIEM) system. 
 <p align="center"> <i>Alert and Rules detected Nmap scan in the network</i> </p>
 
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
 
+# Phising Campaign with GoPhish
 #### Header 4
 
 *   This is an unordered list following a header.
@@ -105,7 +100,8 @@ end
 </dl>
 
 ```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
+Long, single-line code blocks should not 
+wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
 ```
 
 ```
