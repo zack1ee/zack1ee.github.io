@@ -1,8 +1,4 @@
----
-layout: default
----
-
-# [Elastic SIEM Tools](./Elastic.md).
+# Elastic SIEM Tools
 
 This project sets up a security information and event management (SIEM) system. You'll use the Elastic Stack to collect and analyze network logs from Kali Linux. This setup helps you find security threats and visualize network activity in Kibana. 
 
@@ -18,9 +14,3 @@ This project sets up a security information and event management (SIEM) system. 
 
 ![Branching](A2.png)
 <p align="center"> <i>Alert and Rules detected Nmap scan in the network</i> </p>
-
-
-
-# Phising Campaign with GoPhish
-#### Header 4
-
